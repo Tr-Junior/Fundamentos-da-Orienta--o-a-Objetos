@@ -1,0 +1,17 @@
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.csproj.AssemblyReference.cache
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.AssemblyInfoInputs.cache
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.AssemblyInfo.cs
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\bin\Debug\net6.0\payments.exe
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\bin\Debug\net6.0\payments.deps.json
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\bin\Debug\net6.0\payments.runtimeconfig.json
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\bin\Debug\net6.0\payments.dll
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\bin\Debug\net6.0\payments.pdb
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.dll
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\refint\payments.dll
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.pdb
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.genruntimeconfig.cache
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\ref\payments.dll
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\bin\Debug\net6.0\Flunt.dll
+D:\Junior\Desktop\Fundamentos da Orientação a Objetos\payments\obj\Debug\net6.0\payments.csproj.CopyComplete

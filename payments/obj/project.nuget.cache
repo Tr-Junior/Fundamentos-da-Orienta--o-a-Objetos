@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2JHj7mqamUfd+FlFDecnnOROFQH2wILtqXpJXRT9dd9nnPl8AMeeWEReM1yCC3ok1BYKo+1WQHVDO9n1UeX1w==",
+  "success": true,
+  "projectFilePath": "D:\\Junior\\Desktop\\Fundamentos da Orientação a Objetos\\payments\\payments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarcisio Junior\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
